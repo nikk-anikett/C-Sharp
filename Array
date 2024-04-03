@@ -1,0 +1,13 @@
+Static Array:
+
+int[] array = new int[5];
+
+Dynamic Array:
+
+List<int> list = new List<int>();
+
+List<int> list = new List<int> { elements};
+list.Add(ele);
+list.Remove(ele);
+list.Clear();
+list.Contains(ele);
